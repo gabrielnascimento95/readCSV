@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1583965675 source:c:\users\gabri\documents\codeblocks projects\readcsv\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1583966533 source:c:\users\gabri\documents\codeblocks projects\readcsv\src\music.cpp
+	<music.h>
+
+1583966498 c:\users\gabri\documents\codeblocks projects\readcsv\include\music.h
+	<iostream>
+
+1583969083 source:c:\users\gabri\documents\codeblocks projects\readcsv\src\insertsort.cpp
+	"insertSort.h"
+	<iostream>
+
+1583968532 c:\users\gabri\documents\codeblocks projects\readcsv\include\insertsort.h
+
+1584145304 source:c:\users\gabri\documents\codeblocks projects\readcsv\src\megesort.cpp
+	"megeSort.h"
+	<iostream>
+
+1584144989 c:\users\gabri\documents\codeblocks projects\readcsv\include\megesort.h
+
